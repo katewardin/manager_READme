@@ -1,4 +1,3 @@
-# manager_READme
 
 # Manager README
 
