@@ -38,7 +38,7 @@ If you will miss one of our normal team meetings or 1:1s, please alert me/the te
 
 
 ## 1:1s
-[Updated 8/9/2018] I have 23 direct reports/formal mentees/informal mentees. As mentioned above, the time I spend with you is the most important aspect of my role.  Due to the large number of individuals I meet with on a recurring basis, I have adjusted my 1:1s to 1x per 3 weeks. I would love to meet with you more frequently if you are interested.  If so, please let me know. 
+[Updated 8/9/2018] I have 20 direct reports/formal mentees/informal mentees. As mentioned above, the time I spend with you is the most important aspect of my role.  Due to the large number of individuals I meet with on a recurring basis, I have adjusted my 1:1s to 1x per 3 weeks. I would love to meet with you more frequently if you are interested.  If so, please let me know. 
 
 #### 1:1 Agenda: 
 
