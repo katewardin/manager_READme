@@ -16,8 +16,8 @@ This document will **always** be a work in progress.
 
 | Enable Target's Supply Chain UI Strategy | Lead Happy and Productive People |
 | ------------- | --------- |
-|  Responsible for the long term health, value, and vision of the Supply Chain UI components at Target. |  Attract and retain a culture of learning, innovation, trust, and collaboration.  |  
-|  Represents the TTS team and platform in organizational discussions and decisions. |  Serve team members by removing blockers that prevent them from making progress towards professional and personal goals.  | 
+|  Responsible for the long term health, value, and vision of the Supply Chain UI technical components at Target. |  Attract and retain a culture of learning, innovation, trust, and collaboration.  |  
+|  Represent the engineering team and platform in organizational discussions and decisions. |  Serve team members by removing blockers that prevent them from making progress towards professional and personal goals.  | 
 |  Manage cross platform priorities and ensure we have the right skills on each. | Provide context to connect the dots and maximize team member impact. | 
 |  Share credit and provide recognition for platform successes and wins, be accountable when the platform falls short of expectations. | Be tenaciously committed to the growth of each individual. | 
 
