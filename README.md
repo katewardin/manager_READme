@@ -5,24 +5,23 @@ _Inspired by [Chuck Groom's post](https://medium.com/@cgroom/what-i-learned-abou
 
 
 This document will **always** be a work in progress.  
+*Last updated: 1/2/2019*
 
 ## Why I wrote this:
 - It helps me identify and refine my values, strengths, and opportunities as your leader
 - It will help you understand me better right off the bat, which will help us work better together in the future :) 
 
-
 ## My roles: 
 
 
-| Enable Target's API Platform & CDN Platform | Lead Happy and Productive People |
+| Enable Target's Supply Chain UI Strategy | Lead Happy and Productive People |
 | ------------- | --------- |
-|  (Co)-responsible for the long term health, value, and vision of the API and CDN Platform components at Target. |  Attract and retain a culture of learning, innovation, trust, and collaboration.  |  
-|  Represents the team and platform in organizational discussions and decisions. |  Serve team members by removing blockers that prevent them from making progress towards professional and personal goals.  | 
+|  Responsible for the long term health, value, and vision of the Supply Chain UI components at Target. |  Attract and retain a culture of learning, innovation, trust, and collaboration.  |  
+|  Represents the TTS team and platform in organizational discussions and decisions. |  Serve team members by removing blockers that prevent them from making progress towards professional and personal goals.  | 
 |  Manage cross platform priorities and ensure we have the right skills on each. | Provide context to connect the dots and maximize team member impact. | 
 |  Share credit and provide recognition for platform successes and wins, be accountable when the platform falls short of expectations. | Be tenaciously committed to the growth of each individual. | 
 
 ### Important: If you feel I am not meeting any of these responsibilities, please let me know as soon as possible.
-
 
 
 ## Communication
@@ -38,15 +37,19 @@ If you will miss one of our normal team meetings or 1:1s, please alert me/the te
 
 
 ## 1:1s
-[Updated 8/9/2018] I have 20 direct reports/formal mentees/informal mentees. As mentioned above, the time I spend with you is the most important aspect of my role.  Due to the large number of individuals I meet with on a recurring basis, I have adjusted my 1:1s to 1x per 3 weeks. I would love to meet with you more frequently if you are interested.  If so, please let me know. 
+As mentioned above, the time I spend with you is the most important aspect of my role.  Due to the large number of individuals I meet with on a recurring basis, I have adjusted my 1:1s to 1x per 2 weeks. I would love to meet with you more frequently if you are interested.  If so, please let me know. 
 
 #### 1:1 Agenda: 
+I believe that 1:1 agenda topics should be driven by the team member.  
 
-I have created a Github Gist for each of you that is private to us.  We can use this to maintain a running agenda for our 1:1s.  Think of something during the week that you wish to discuss?  Add a comment to the Gist.  We can both keep it updated with thoughts to ensure we make the most of our time.   
+If you do not have any specific topics, I would suggest we talk about:
 
-We will also use this time to discuss performance.  If I am worried about your performance, I will let you know.  Additionally, I admire when high performing individuals seek additional feedback on their performance - please challenge me/you to think of 'stretch goals' for you to continue improving!
+1) What work you are enjoying / excited about
+2) What work you find most challenging 
+3) How your work aligns to the overall team/org strategy
+3) What can I help you with?
 
-If you don't have any specific task-related updates or questions, please use the time to discuss ideas for your career development, our team strategy, Target as an organization, etc.   
+We will also use this time to discuss performance.  If I am worried about your performance, I will let you know.  Additionally, I admire when high performing individuals seek additional feedback on their performance - please challenge me/you to think of 'stretch goals' for you to continue growing!
 
 I am a firm believer that every individual drives his/her own career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
 
@@ -75,7 +78,7 @@ It is very important to me to be self aware of my strengths and weaknesses. I us
 - I am driven by the desire to please people.  It is unnatural and uncomfortable for me to say 'no' or share bad news.   Obviously this is required of my role, and I have been forced to practice different techniques that still enable me to help everyone.  Specific examples that I am especially cautious of are: overpromising priorities to other teams or leaders, overpromising opportunities, career advancements/compensation to you, and overextending myself by not protecting my time. 
 
  - **I didn't grow up as a developer.**  However, I will never say "I'm not technical" because that isn't true.
-   - **I will not** be the leader to conduct code reviews or even teach you the best practices of modern software development.  
+   - **I will not** be the leader to conduct code reviews or even teach you the best practices of modern software development.  We have very strong Lead and Principal Engineers who I will partner with to ensure you are growing from a technical perspective.
    - **I will** ask you questions that will make you think differently about how you implemented something.  
    - **I will** ask you what value your code provides the team and organization.  
    - **I will** continue asking questions so that I can effectively speak to all of the technical components with you, our partners, and leaders.
