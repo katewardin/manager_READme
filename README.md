@@ -77,7 +77,7 @@ It is very important to me to be self aware of my strengths and weaknesses. I us
 
 - I am driven by the desire to please people.  It is unnatural and uncomfortable for me to say 'no' or share bad news.   Obviously this is required of my role, and I have been forced to practice different techniques that still enable me to help everyone.  Specific examples that I am especially cautious of are: overpromising priorities to other teams or leaders, overpromising opportunities, career advancements/compensation to you, and overextending myself by not protecting my time. 
 
- - **I didn't grow up as a developer.**  However, I will never say "I'm not technical" because that isn't true.
+ - **I didn't grow up as a developer**  However, I will never say "I'm not technical" because that isn't true.
    - **I will not** be the leader to conduct code reviews or even teach you the best practices of modern software development.  We have very strong Lead and Principal Engineers who I will partner with to ensure you are growing from a technical perspective.
    - **I will** ask you questions that will make you think differently about how you implemented something.  
    - **I will** ask you what value your code provides the team and organization.  
